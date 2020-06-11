@@ -1,0 +1,9 @@
+/* css variable */
+:root{
+    --main:#F26419;
+}
+
+body{
+    font-family: "charm",cursive;
+    color: var(--main);
+}
